@@ -22,4 +22,4 @@ The analysis includes:
 - Xpert Learning Assistant 
 - Tutor
 - Curriculum content 
-- AskBCS
+- AskBCS Learning Assistant 
